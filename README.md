@@ -1,1 +1,8 @@
 # Proje-1
+
+PRATİK EĞLENCE
+
+BU UYGULAMA BASİT EĞLENCE VE KOLAYLIK AMAÇLIDIR
+Ana sayfada:
+
+1. basılırsa 
