@@ -30,5 +30,5 @@ uygulamadan kolayca çıkabilirsiniz.
 
 İYİ KULLANMALAR...✨✨✨
 
-![tanıtım](images/proje1.png)
+![tanıtım](proje1.png)
 
